@@ -1,0 +1,26 @@
+
+installing and ussing packages. 
+we now have everything we need to start building some awesome stuff.  Lets talk about react.
+Why update packages?  -- robo friends project. Using react.
+package.json file. check it on github. Libraries are always evolving. (new versions.) 
+get the updatest. the latest - for security reasons. Outdated packages?  security issues.  You should upgrade them
+keep projects up to date.  Security alerts on gitihub.  Semver - the versions of packages. npm semantic version 
+calculator.  enter the range of version - e.g handlebars   >=4.0.14   for example.  stable version greater than
+or = to 4.0.14   and the ^1  within version 1 --- updating packages is good practice. 
+Now lets do a react project.   Build a portfolio page? SImplefolio github repo.  customize it. add your 
+projects. MIT license.  clone the repo  and use ssh --- it is more convenient.   
+git clone ssh    cd simplefolio/    suublime.     in terminal.          fork the project. 
+git remote remove origin   to remove the link to the original project so you wont have to worry. 
+You can just have your own version.    now run   npm install  --- to install all the dependencies.  
+now    npm start    command    and there you go  --- just like that.  cta - call to action 
+
+use the template - you know how to edfdit this stuff now.  instructions. 
+ 
+26 07 2020 :   .scss  is a file format for css  what we call sass... its basically css but it gives
+you more features.. you can change the default color values.   you can deploy this project using Netlify. 
+simplefolio.  html files. doctype html  basically saying to the browser that this is a html5 file. 
+html file structure. using git and github. some common git commands. such as git status, git log - we can 
+the get the hash code of a previous log and  do   git reset (code)   to go back to a precvious commit. 
+git push   (upstream origin)  if needed.  git pull  to getthe latest.   git merge?  git branch 
+-b     ....  npm start   command.   the command line.  react concepts - components. props. state. 
+funtional components.  
